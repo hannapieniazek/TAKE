@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Migrations\\20240421113049_AddRowVersionMig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcNews\\Migrations\\20240421113049_AddRowVersionMig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|c:\\users\\hanna\\desktop\\2st\\technologie dla aplikacji klasy enterprise\\take\\mvcnews\\mvcnews\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22304769-D0D8-4465-A6AF-2C71C39B703A}|MvcNews\\MvcNews.csproj|solutionrelative:mvcnews\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Migrations\\20240421112400_AddRowVersionMig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcNews\\Migrations\\20240421112400_AddRowVersionMig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Program.cs",
+              "RelativeDocumentMoniker": "MvcNews\\Program.cs",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Program.cs",
+              "RelativeToolTip": "MvcNews\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:36:28.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcNews\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "MvcNews\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:35:55.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcNews\\Views\\News\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "MvcNews\\Views\\News\\Details.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:35:04.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcNews\\Views\\News\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "MvcNews\\Views\\News\\Edit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:23:30.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcNews\\Views\\News\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Delete.cshtml",
+              "RelativeToolTip": "MvcNews\\Views\\News\\Delete.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:34:33.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcNews\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcNews\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:32:44.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcNews\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "MvcNews\\Views\\News\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:58:32.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240421113049_AddRowVersionMig2.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Migrations\\20240421113049_AddRowVersionMig2.cs",
+              "RelativeDocumentMoniker": "MvcNews\\Migrations\\20240421113049_AddRowVersionMig2.cs",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Migrations\\20240421113049_AddRowVersionMig2.cs",
+              "RelativeToolTip": "MvcNews\\Migrations\\20240421113049_AddRowVersionMig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:30:49.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240421112400_AddRowVersionMig2.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Migrations\\20240421112400_AddRowVersionMig2.cs",
+              "RelativeDocumentMoniker": "MvcNews\\Migrations\\20240421112400_AddRowVersionMig2.cs",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Migrations\\20240421112400_AddRowVersionMig2.cs",
+              "RelativeToolTip": "MvcNews\\Migrations\\20240421112400_AddRowVersionMig2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:24:00.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Models\\NewsItem.cs",
+              "RelativeDocumentMoniker": "MvcNews\\Models\\NewsItem.cs",
+              "ToolTip": "C:\\Users\\hanna\\Desktop\\2st\\Technologie dla aplikacji klasy enterprise\\TAKE\\MvcNews\\MvcNews\\Models\\NewsItem.cs",
+              "RelativeToolTip": "MvcNews\\Models\\NewsItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:49:11.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
