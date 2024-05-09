@@ -12,18 +12,17 @@ import jakarta.transaction.Transactional;
 
 @ApplicationScoped
 public class ComplaintService {
-
     @Inject
     private ComplaintRepository repository;
+    @Inject
+    private ModelMapper mapper;
     @Transactional
     public void create(ComplaintDTO dto) {
-        ModelMapper mapper = new ModelMapper();
         repository.create(mapper.map(dto, Complaint.class));
     }
 
     @Transactional
     public void edit(ComplaintDTO dto) {
-        ModelMapper mapper = new ModelMapper();
         repository.edit(mapper.map(dto, Complaint.class));
     }
 
@@ -34,13 +33,11 @@ public class ComplaintService {
 
     @Transactional
     public ComplaintDTO find(Long id) {
-        ModelMapper mapper = new ModelMapper();
         return mapper.map(repository.find(id), ComplaintDTO.class);
     }
 
     @Transactional
     public List<ComplaintDTO> findAll(String status) {
-        ModelMapper mapper = new ModelMapper();
         List<Complaint> entityList = repository.findAll(status);
         Type listType =
                 new TypeToken<List<ComplaintDTO>>() {}.getType();
